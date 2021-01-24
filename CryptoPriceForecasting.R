@@ -1,7 +1,4 @@
 
-
-setwd("C:\\Users\\HP\\Documents\\Rodrigo\\ISEG\\MSc Applied Econometrics & Forecasting\\TFM")
-
 # LIBRARIES & PATHS --------------------------------------------------------------------------------------------
 
 
